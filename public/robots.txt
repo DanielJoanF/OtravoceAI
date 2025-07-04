@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://otravoce-ai.vercel.app/sitemap.xml
